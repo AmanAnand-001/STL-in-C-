@@ -61,7 +61,7 @@ int main(){
   cout << "after clear size " << v.size() << endl;
 
  
-  // STL IN DEQUE
+  // STL IN DEQUEUE
   
   deque<int> d;
 
